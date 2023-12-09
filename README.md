@@ -13,7 +13,9 @@
 
 
 
-<p><img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=QwertyFusion&show_icons=true&theme=dark&locale=en&hide_border=false" alt="profile-radme-generator" /> </p>
+<p><img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=QwertyFusion&show_icons=true&theme=dark&locale=en&hide_border=false" alt="profile-radme-generator" />
+</a>
+</p>
 
 
 
