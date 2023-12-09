@@ -13,7 +13,7 @@
 
 
 
-<img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=QwertyFusion&theme=dark&mode=weekly&hide_border=false&locale=en" alt="profile-radme-generator" /> <br>
+<img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=QwertyFusion&theme=dark&mode=daily&hide_border=false&locale=en" alt="profile-radme-generator" /> <br>
 
 
 
