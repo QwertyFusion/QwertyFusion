@@ -9,12 +9,12 @@
 
 
 
-<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=QwertyFusion&show_icons=true&theme=dark&locale=en&hide_border=false" alt="profile-radme-generator" /> <p></n></p>
+<p><img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=QwertyFusion&show_icons=true&theme=dark&locale=en&hide_border=false" alt="profile-radme-generator" /> </p>
 
 
 
-<img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=QwertyFusion&theme=dark&mode=daily&hide_border=false&locale=en" alt="profile-radme-generator" /> <p></p>
+<p><img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=QwertyFusion&theme=dark&mode=daily&hide_border=false&locale=en" alt="profile-radme-generator" /> </p>
 
 
 
-<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=QwertyFusion&theme=dark&hide_border=false" alt="profile-radme-generator" />
+<p><img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=QwertyFusion&theme=dark&hide_border=false" alt="profile-radme-generator" /> <p>
