@@ -1,4 +1,4 @@
-<img height="auto" src="https://komarev.com/ghpvc/?username=QwertyFusion&color=D70040&style=for-the-badge" alt="profile-radme-generator" />
+<img height="auto" src="https://komarev.com/ghpvc/?username=QwertyFusion&base=250&color=D70040&style=for-the-badge" alt="profile-radme-generator" />
 <h1 align="center">Hi 👋, I'm Rishi Banerjee</h1>
 <h3 align="center">Graphic Designer 🌟 | Aspiring SDE ☕</h3>
 
