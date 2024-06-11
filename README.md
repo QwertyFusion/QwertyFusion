@@ -50,19 +50,7 @@
     </div>
     <div width="60%">
       <h3 align="left">Programming and Scripting Languages</h3>
-  
-      <h3 align="left">Web Technologies</h3>
       Java
-      <h3 align="left">Design and Multimedia Tools</h3>
-  
-      <h3 align="left">Testing and Deployment Tools</h3>
-  
-      <h3 align="left">Game Development Tools</h3>
-  
-      <h3 align="left">Operating Systems</h3>
-  
-      <h3 align="left">Other Interests</h3>
-      
     </div>
   </div>
 
@@ -70,16 +58,18 @@
 <div>
     <br>
     <h2 align="center"> 🌐 Contact Me 🌐 </h2>
-  
-  [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/rishi-banerjee) 
-  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/VEAeTtMzYS) 
-  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rishibanerjee01) 
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rishi._.banerjee) 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mr-rishi-banerjee) 
-  [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/qwertyfusion) 
-  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCde9WBZi_1U64Xv-Wc3WXPA) 
-    <a href="https://www.hackerrank.com/rishibanerjee10" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg alt="profile-radme-generator" height="30" width="40" /></a> 
-    <a href="https://www.leetcode.com/rishi-banerjee" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg alt="profile-radme-generator" height="30" width="40" /></a> </p>
+    <p align="left">
+      <a href="https://linkedin.com/in/mr-rishi-banerjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mr-rishi-banerjee" height="30" width="40" /></a>
+      <a href="https://dribbble.com/qwertyfusion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="qwertyfusion" height="30" width="40" /></a>
+      <a href="https://www.behance.net/rishi-banerjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rishi-banerjee" height="30" width="40" /></a>
+      <a href="https://discord.gg/VEAeTtMzYS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="VEAeTtMzYS" height="30" width="40" /></a>
+      <a href="https://www.hackerrank.com/rishibanerjee10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rishibanerjee10" height="30" width="40" /></a>
+      <a href="https://www.leetcode.com/rishi-banerjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishi-banerjee" height="30" width="40" /></a>
+      <a href="https://twitter.com/qwertyfusion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="qwertyfusion" height="30" width="40" /></a>
+      <a href="https://fb.com/rishibanerjee01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rishibanerjee01" height="30" width="40" /></a>
+      <a href="https://instagram.com/rishi._.banerjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishi._.banerjee" height="30" width="40" /></a>
+      <a href="https://www.youtube.com/c/ucde9wbzi_1u64xv-wc3wxpa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucde9wbzi_1u64xv-wc3wxpa" height="30" width="40" /></a>
+    </p>
   </div>
 
   <div>
