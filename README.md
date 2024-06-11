@@ -1,8 +1,63 @@
-<img height="auto" src="https://komarev.com/ghpvc/?username=QwertyFusion&label=Profile%20views&color=D70040&style=for-the-badge" alt="profile-radme-generator" />
-<h1 align="center">Hi 👋, I'm Rishi Banerjee</h1>
-<h3 align="center">Graphic Designer 🌟 | Aspiring SDE ☕</h3>
+<body>
+<center>
+  <div>
+    <h1 align="center">Hey you, you're finally awake, I'm Rishi Banerjee</h1>
+    <p align="center">
+    <img src="https://github.com/QwertyFusion/QwertyFusion/blob/main/images/banner-image.png" alt="Banner Image of Rishi's Profile"/>
+    </p>
+  </div>
+  
+  <div>
+    <br>
+    <h2 align="center"> 🐱 About Me 🐱 </h2>
+    <div align="center">
+      <img src="https://github.com/QwertyFusion/QwertyFusion/blob/main/images/cat-jump.gif" alt="Pixelated Cat Jumping" width="25%" height="25%" align="right">
+    </div>
+    <li>
+      <b>Name:</b> Rishi Banerjee
+    </li>
+    <li>
+      <b>Gender:</b> Male
+    </li>
+    <li>
+      <b>Loves:</b> Games, Cats, Anime, Art, Gym
+    </li>
+    <li>
+      <b>Favorite Music Genre:</b> Rock, Country
+    </li>
+    <li>
+      <b>Hobbies:</b> Art, Gaming, Graphic Design, Tech Stuff, Game Development
+    </li>
+    <li>
+      <b>Last Game Played:</b> Far Cry 5
+    </li>
+    <li>
+      <b>Dressing Style:</b> Old Money
+    </li>
+    <li>
+      <b>Portfolio:</b> Work in progress 🚧
+    </li>
+    <li>
+      <b>Coder's Discord Server:</b> Work in progress 🚧
+    </li>
+    <br><br><br>
+  </div>
 
-<p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=QwertyFusion&theme=matrix&column=6&no-frame=false&no-bg=false&margin-w=19&margin-h=19" alt="image" /> </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=QwertyFusion&theme=matrix&column=6&no-frame=false&no-bg=false&margin-w=19&margin-h=19" alt="trophies" /> </p>
 
 <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://github.com/QwertyFusion" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://linkedin.com/in/mr-rishi-banerjee" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://stackoverflow.com/users/22808467" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://fb.com/rishibanerjee01" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://instagram.com/rishi._.banerjee" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://www.hackerrank.com/rishibanerjee10" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://www.leetcode.com/rishi-banerjee" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg alt="profile-radme-generator" height="30" width="40" /></a> </p>
 
@@ -23,3 +78,5 @@
 <p><img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=QwertyFusion&theme=dark&mode=daily&hide_border=false&locale=en" alt="profile-radme-generator" /> 
 </a>
 </p>
+
+<img height="auto" src="https://komarev.com/ghpvc/?username=QwertyFusion&label=Profile%20views&color=D70040&style=for-the-badge" alt="Total Profile Views" />
