@@ -43,30 +43,33 @@
   </div>
 
   <div>
-    <br>
-    <h2 align="center"> 🐱 Skills 🐱 </h2>
+    <br><br>
+    <h2 align="center"> 💻 Skills 💻 </h2>
     <div align="center">
       <img src="https://github.com/QwertyFusion/QwertyFusion/blob/main/images/cat-jump.gif" alt="Pixelated Cat Jumping" width="25%" height="25%" align="right">
     </div>
-    <h3 align="left">Programming and Scripting Languages</h3>
-
-    <h3 align="left">Web Technologies</h3>
-    Java
-    <h3 align="left">Design and Multimedia Tools</h3>
-
-    <h3 align="left">Testing and Deployment Tools</h3>
-
-    <h3 align="left">Game Development Tools</h3>
-
-    <h3 align="left">Operating Systems</h3>
-
-    <h3 align="left">Other Interests</h3>
+    <div width="60%">
+      <h3 align="left">Programming and Scripting Languages</h3>
+  
+      <h3 align="left">Web Technologies</h3>
+      Java
+      <h3 align="left">Design and Multimedia Tools</h3>
+  
+      <h3 align="left">Testing and Deployment Tools</h3>
+  
+      <h3 align="left">Game Development Tools</h3>
+  
+      <h3 align="left">Operating Systems</h3>
+  
+      <h3 align="left">Other Interests</h3>
+      
+    </div>
   </div>
 
 
 <div>
     <br>
-    <h2 align="center"> 🐱 Contact Me 🐱 </h2>
+    <h2 align="center"> 🌐 Contact Me 🌐 </h2>
   
   [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/rishi-banerjee) 
   [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/VEAeTtMzYS) 
@@ -89,15 +92,24 @@
   <div>
     <br>
     <h2 align="center"> 📊 GitHub Statistics 📊 </h2>
-    <p><img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=QwertyFusion&theme=dark&hide_border=true&include_all_commits=true&count_private=true" /> <p>
-    <p><img align="right" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=QwertyFusion&theme=dark&hide_border=true" /></p>
-  </div>
+    <p>
+        <img align="left" height="auto" width="300" src="https://github-readme-stats.vercel.app/api?username=QwertyFusion&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+    </p>
+    <p>
+        <img align="right" height="auto" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=QwertyFusion&theme=dark&hide_border=true" />
+    </p>
+    <br clear="both">
+</div>
 
-  <div>
-    <br>
+<div align="center">
+    <br><br>
     <h2 align="center"> ✍️ Random Dev Quote ✍️ </h2>
-    <p><img align="center" height="auto" width="auto" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /> <p>
-  </div>
+    <p>
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+    </p>
+</div>
 
 
-<img height="auto" src="https://komarev.com/ghpvc/?username=QwertyFusion&label=Profile%20views&color=D70040&style=for-the-badge" alt="Total Profile Views" />
+
+  <img height="auto" src="https://komarev.com/ghpvc/?username=QwertyFusion&label=Profile%20views&color=D70040&style=for-the-badge" alt="Total Profile Views" />
+</body>
