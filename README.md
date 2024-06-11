@@ -6,7 +6,7 @@
     <img src="https://github.com/QwertyFusion/QwertyFusion/blob/main/images/banner-image.png" alt="Banner Image of Rishi's Profile"/>
     </p>
   </div>
-  
+  <img height="auto" src="https://komarev.com/ghpvc/?username=QwertyFusion&label=Profile%20views&color=D70040&style=for-the-badge" alt="Total Profile Views" />
   <div>
     <br>
     <h2 align="center"> 🐱 About Me 🐱 </h2>
@@ -20,7 +20,7 @@
       <b>Gender:</b> Male
     </li>
     <li>
-      <b>Loves:</b> Games, Cats, Anime, Art, Gym
+      <b>Loves:</b> Games, Cats, Anime, Pokemon, Art, Gym
     </li>
     <li>
       <b>Favorite Music Genre:</b> Rock, Country
@@ -93,10 +93,10 @@
     <br>
     <h2 align="center"> 📊 GitHub Statistics 📊 </h2>
     <p>
-        <img align="left" height="auto" width="300" src="https://github-readme-stats.vercel.app/api?username=QwertyFusion&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+        <img align="left" height="auto" width="auto" src="https://github-readme-stats.vercel.app/api?username=QwertyFusion&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
     </p>
     <p>
-        <img align="right" height="auto" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=QwertyFusion&theme=dark&hide_border=true" />
+        <img align="right" height="auto" width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=QwertyFusion&theme=dark&hide_border=true" />
     </p>
     <br clear="both">
 </div>
@@ -108,8 +108,9 @@
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
     </p>
 </div>
-
-
-
-  <img height="auto" src="https://komarev.com/ghpvc/?username=QwertyFusion&label=Profile%20views&color=D70040&style=for-the-badge" alt="Total Profile Views" />
+<br><br>
+<p align="center">
+        All images and GIFs used in this document are original creations by Rishi Banerjee. <br>
+        Unauthorized use, reproduction, or distribution is strictly prohibited.
+</p>
 </body>
