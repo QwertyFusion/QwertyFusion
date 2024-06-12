@@ -125,7 +125,6 @@
     </div>
   </div>
 
-  <!--- COMMENT START
   <div>
     <br>
     <h2 align="center"> 🏆 GitHub Trophies 🏆 </h2>
@@ -144,7 +143,6 @@
     </p>
     <br clear="both">
 </div>
-COMMENT END --->
 
 <div align="center">
     <br><br>
