@@ -11,7 +11,7 @@
     <br>
     <h2 align="center"> 🐱 About Me 🐱 </h2>
     <div align="center">
-      <img src="https://github.com/QwertyFusion/QwertyFusion/blob/main/images/cat-jump.gif" alt="Pixelated Cat Jumping" width="25%" height="25%" align="right">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhwNmw2NjZnYjV5aWE2b3B5dmhuemczZGYxN2tuMXdodzUxdTBqbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6yU5mAiUaJZFj8lpPn/giphy.gif" alt="" width="45%" height="45%" align="right">
     </div>
     <li>
       <b>Name:</b> Rishi Banerjee
