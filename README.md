@@ -136,10 +136,10 @@
     <br>
     <h2 align="center"> 📊 GitHub Statistics 📊 </h2>
     <p>
-        <img align="left" height="auto" width="auto" src="https://github-readme-stats.vercel.app/api?username=QwertyFusion&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+        <img align="left" height="auto" width="50%" src="https://github-readme-stats.vercel.app/api?username=QwertyFusion&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
     </p>
     <p>
-        <img align="right" height="auto" width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=QwertyFusion&theme=dark&hide_border=true" />
+        <img align="right" height="auto" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=QwertyFusion&theme=dark&hide_border=true" />
     </p>
     <br clear="both">
 </div>
