@@ -121,7 +121,7 @@
         <a href="https://twitter.com/qwertyfusion" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
         <a href="https://fb.com/rishibanerjee01" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
         <a href="https://instagram.com/rishi._.banerjee" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-        <a href="https://www.youtube.com/c/ucde9wbzi_1u64xv-wc3wxpa" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+        <a href="https://www.youtube.com/@qwertyfusion" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
     </div>
   </div>
 
