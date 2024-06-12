@@ -43,6 +43,23 @@
   </div>
 
   <div>
+    <br>
+    <h2 align="center"> 🌐 Contact Me 🌐 </h2>
+    <div align="left">
+        <a href="https://linkedin.com/in/mr-rishi-banerjee" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+        <a href="https://dribbble.com/qwertyfusion" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" /></a>
+        <a href="https://www.behance.net/rishi-banerjee" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+        <a href="https://discord.gg/VEAeTtMzYS" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+        <a href="https://www.hackerrank.com/rishibanerjee10" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+        <a href="https://www.leetcode.com/rishi-banerjee" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+        <a href="https://twitter.com/qwertyfusion" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+        <a href="https://fb.com/rishibanerjee01" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+        <a href="https://instagram.com/rishi._.banerjee" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+        <a href="https://www.youtube.com/@qwertyfusion" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+    </div>
+  </div>
+
+  <div>
     <br><br>
     <h2 align="center"> 💻 Skills 💻 </h2>
     <div align="left">
@@ -105,23 +122,6 @@
       <h3>Operating Systems</h3>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
       <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-    </div>
-  </div>
-
-<div>
-    <br>
-    <h2 align="center"> 🌐 Contact Me 🌐 </h2>
-    <div align="left">
-        <a href="https://linkedin.com/in/mr-rishi-banerjee" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-        <a href="https://dribbble.com/qwertyfusion" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" /></a>
-        <a href="https://www.behance.net/rishi-banerjee" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
-        <a href="https://discord.gg/VEAeTtMzYS" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-        <a href="https://www.hackerrank.com/rishibanerjee10" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-        <a href="https://www.leetcode.com/rishi-banerjee" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-        <a href="https://twitter.com/qwertyfusion" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-        <a href="https://fb.com/rishibanerjee01" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-        <a href="https://instagram.com/rishi._.banerjee" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-        <a href="https://www.youtube.com/@qwertyfusion" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
     </div>
   </div>
 
