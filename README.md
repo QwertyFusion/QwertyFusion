@@ -32,7 +32,7 @@
       <b>Last Game Played:</b> Far Cry 5
     </li>
     <li>
-      <b>Dressing Style:</b> Old Money
+      <b>Current Anime:</b> Jujutsu Kaisen
     </li>
     <li>
       <b>Portfolio:</b> Work in progress 🚧
