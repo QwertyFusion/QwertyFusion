@@ -29,7 +29,7 @@
       <b>Hobbies:</b> Art, Gaming, Graphic Design, Tech Stuff, Game Development
     </li>
     <li>
-      <b>Last Game Played:</b> Far Cry 5
+      <b>Last Game Played:</b> Batman: Arkham City
     </li>
     <li>
       <b>Current Anime:</b> Jujutsu Kaisen
